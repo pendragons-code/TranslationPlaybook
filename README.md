@@ -7,10 +7,18 @@ This uses the google translate api, which I got through Rapid API. The free tier
 
 # Let's get it rolling!
 Clone the repo:         
-```git clone https://github.com/pendragons-code/TranslationPlaybook```          
+```
+git clone https://github.com/pendragons-code/TranslationPlaybook
+```          
 Install all dependencies:           
-```npm i```         
+```
+npm i
+```         
 Install pm2 (systemwide):       
-```npm i -g pm2```
+```
+npm i -g pm2
+```
 Run the project:        
-```npm run deploy```
+```
+npm run deploy
+```
