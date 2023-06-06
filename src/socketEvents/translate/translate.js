@@ -39,7 +39,7 @@ module.exports = {
 		}
 		try{
 			encodedParams.set("target", socketInput.to)
-			encodedParams.set("source", fromFinal)
+			encodedParams.set("source", finalFrom)
 			const translateOptions = {
 				method: "POST",
 				url: "https://google-translate1.p.rapidapi.com/language/translate/v2",
