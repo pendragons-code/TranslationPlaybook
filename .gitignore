@@ -1,0 +1,7 @@
+test.js
+.env
+.env.production
+.env.development
+node_modules
+package-lock.json
+.package.json

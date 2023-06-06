@@ -1,0 +1,9 @@
+{
+	"frontEndRateLimit": {
+		"windowMinutes": 1,
+		"maxWindowRequest": 50,
+		"standardHeaders": true,
+		"legacyHeaders": false,
+		"message": "You are being rate-limited, please try again later!"
+	}
+}
